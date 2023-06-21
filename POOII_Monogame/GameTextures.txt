@@ -1,0 +1,9 @@
+Sprites/T_Guy
+Sprites/T_Enemy
+Sprites/T_Cave
+Sprites/T_Grass
+Sprites/T_Rock
+Sprites/T_Missing
+Sprites/T_Turret
+Sprites/T_healthPowerUp
+Sprites/T_speedPowerUp
